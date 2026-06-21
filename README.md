@@ -44,8 +44,7 @@ A unified Streamlit app combining six quant finance modules — credit risk, por
 - **PG Diploma in Interdisciplinary Studies & Research** — Flame University, Pune · Major: Finance | Minor: Economics · June 2022
 - **BS in Applied Mathematics** — Flame University, Pune · Minor: Economics · June 2021
 - **FRM Part 1** — Passed (May 2024) · **FRM Part 2** — Candidate (Nov 2026)
-- Currently working in data analytics and assessment at **Success Academy**
-- Previously: quantitative research, financial modeling, and risk analysis across capital markets contexts
+- Quantitative research, financial modeling, and risk analysis across capital markets contexts
 
 ---
 
