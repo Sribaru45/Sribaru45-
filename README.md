@@ -40,7 +40,9 @@ A unified Streamlit app combining six quant finance modules — credit risk, por
 
 ## 🎓 Background
 
-- **MS Financial Engineering** — Stevens Institute of Technology (GPA: 3.8)
+- **MS Financial Engineering** — Stevens Institute of Technology (GPA: 3.8) · June 2024
+- **PG Diploma in Interdisciplinary Studies & Research** — Flame University, Pune · Major: Finance | Minor: Economics · June 2022
+- **BS in Applied Mathematics** — Flame University, Pune · Minor: Economics · June 2021
 - **FRM Part 1** — Passed (May 2024) · **FRM Part 2** — Candidate (Nov 2026)
 - Currently working in data analytics and assessment at **Success Academy**
 - Previously: quantitative research, financial modeling, and risk analysis across capital markets contexts
@@ -60,5 +62,5 @@ A unified Streamlit app combining six quant finance modules — credit risk, por
 
 ## 📬 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://github.com/Sribaru45)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([https://linkedin.com/in/sriram-bharadwaj](https://www.linkedin.com/in/sriram-bharadwaj-151456171/))
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sriram.bharadwaj@icloud.com)
