@@ -20,8 +20,10 @@ I build tools at the intersection of finance and data — from credit risk model
 
 ## 🚀 Featured Project
 
-### [📊 Financial Analytics Platform](https://github.com/Sribaru45) *(In Progress)*
-A unified Streamlit app combining six quant finance modules — credit risk, portfolio optimization, options pricing, VaR analytics, pairs trading backtest, and a live financial dashboard — into one Bloomberg-lite interface.
+### [📊 Financial Analytics Platform](https://github.com/Sribaru45/quant-finance-dashboard)
+A unified Streamlit app combining six quant finance modules — credit risk, portfolio optimization, options pricing, VaR analytics, pairs trading backtest, and a value investing screener — into one Bloomberg-lite interface.
+
+🔗 **[Live Demo → srirambharadwaj.duckdns.org](https://srirambharadwaj.duckdns.org)**
 
 ---
 
@@ -29,7 +31,7 @@ A unified Streamlit app combining six quant finance modules — credit risk, por
 
 | Repo | Description |
 |---|---|
-| 🏦 `financial-analytics-platform` | Unified multi-module quant finance app (Streamlit) |
+| 🏦 `quant-finance-dashboard` | Unified multi-module quant finance app (Streamlit) |
 | 📉 `credit-risk-model` | PD/LGD modeling with logistic regression, Basel II/III context |
 | 📈 `options-pricing-dashboard` | Black-Scholes pricer with Greeks visualization |
 | 🔁 `pairs-trading-strategy` | Cointegration-based stat arb with full backtest engine |
